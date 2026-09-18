@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/DelphiGetIt"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/DelphiGetIt-blue?logo=github"></a>
   <a href="https://antono4.github.io/DelphiGetIt/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-2079-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-18 23:23:22 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-19 02:12:57 WIB-lightgrey">
 </p>
 
 ---
@@ -61,5 +61,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-18 23:23:22 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
-Last updated: 2026-09-19 02:08:05 WIB
+<sub>README ini di-generate otomatis pada **2026-09-19 02:12:57 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
